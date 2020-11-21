@@ -1,0 +1,10 @@
+#main {
+	scroll-behavior: smooth;
+}
+
+html {
+	scroll-behavior: smooth;
+}
+.fab{
+    font-size: 50;
+}
